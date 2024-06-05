@@ -12,8 +12,9 @@ Propiedad de Mastermind, S.L. (http://www.mastermind.ac)
 
 cambios
 master:
-.gitignore
+Add .gitignore
 
 nueva-funcionalidad:
-
+Add style.css
+Add IMG
 rama-pruebas:

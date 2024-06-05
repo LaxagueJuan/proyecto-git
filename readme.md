@@ -9,3 +9,11 @@ Proyecto final en el que a partir de un repositorio se van a realizar una serie 
 ## Autores
 
 Propiedad de Mastermind, S.L. (http://www.mastermind.ac)
+
+cambios
+master:
+.gitignore
+
+nueva-funcionalidad:
+
+rama-pruebas:
